@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def admin_login(username, password):
-    # your code here need more practice 
+    # your code here 
     pass
 
 def hows_the_weather(temperature):
