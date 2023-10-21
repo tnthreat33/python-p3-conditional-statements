@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def admin_login(username, password):
-    # your code here
+    # your code here need more practice 
     pass
 
 def hows_the_weather(temperature):
@@ -13,5 +13,5 @@ def fizzbuzz(num):
     pass
 
 def calculator(operation, num1, num2):
-    # your code here
+    # your code here 
     pass
